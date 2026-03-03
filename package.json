@@ -66,7 +66,7 @@
     "drizzle-orm": "^0.45.1",
     "genius-lyrics-api": "^3.2.1",
     "i18next": "^25.7.3",
-    "lavalink-client": "^2.7.7",
+    "lavalink-client": "^2.9.7",
     "node-system-stats": "^2.0.5",
     "pg": "^8.16.3",
     "signale": "^1.4.0",
